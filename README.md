@@ -3,20 +3,26 @@
 ### Easy Data Structures
 #### https://easydatastructures.com/
 
-### DaroSoft
-#### https://darosoft.com/
-
-### BB Min Chem
-#### https://bbminchem.com/
-
 ### Afeef Zara Packages
 #### https://afeefzarapackages.com/
 
+### KBAPK - High Quality Chemicals & Minerals
+#### https://kbapk.com/
+
+### BB MinChem
+#### https://bbminchem.com/
+
 ### Towel Manufacturing Association (TMA)
-#### https://cyan-elk-408227.hostingersite.com/
+#### https://lightyellow-jackal-363583.hostingersite.com/
 
 ### Bookory Publishing
 #### https://trotsoft.com/
+
+### DaroSoft
+#### https://darosoft.com/
+
+### Digital Timez (Password : password)
+#### https://digital-timez.myshopify.com/
 
 ### The Alifa
 #### https://thealifa.com/
@@ -30,22 +36,19 @@
 ### Amy Cooke
 #### https://www.amycookemovement.com/
 
-### Emerald Propertiez
-#### https://emeraldpropertiez.com/
-
-### MoyenXpress
-#### https://moyenxpress.com/
-
 ### 5 Star Real Estate (Password: "yourPassword")
 #### https://5-stars-real-estate.thevisionbrands.com/
 
 ### IDETEP
 #### https://idetep.org/
 
-### The Vision Brands
-#### https://thevisionbrands.com/
 
-### Global Application Brands
-#### https://www.globalapplicationbrands.com/
+# Custom Tools
+
+### QR Code Generator
+#### https://darosoft.com/tools/qr-code/
+
+### Random Email Generator
+#### https://darosoft.com/tools/random-email-generator/
 
 
